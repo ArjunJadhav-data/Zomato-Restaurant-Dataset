@@ -43,7 +43,7 @@ CREATE TABLE zomato_data (
     has_online_delivery VARCHAR(5),
     aggregate_rating    DECIMAL(3,2),
     votes               INT,
-    datekey_opening     DATE
+    datekey_opening    DATE
 );
 ```
 
